@@ -58,3 +58,7 @@ Ejecutar el main de la clase:
 ```java
 com.vass.talks.kafka.SensorMonitor
 ```
+
+## Consumidor basado en spring-boot
+
+Ejecutar el proyecto gradle de la carpeta "kafka-stream-spring-boot"
